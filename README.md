@@ -116,23 +116,3 @@ Me chamo Marcelly Fonseca da Cruz, estou cursando Análise e Desenvolvimento de 
   />
 
 </p>
-        
-<br/>
-<br/>
-<br clear="both"/>
-
----
-### 📫 Como me encontrar
-
-Sinta-se à vontade para se conectar comigo ou me enviar uma mensagem:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/marcelly-fonseca-52530b2a9/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Marcelly Cruz" height="30" width="40" />
-</a>
-
-<a href="mailto:marcellyfcruz@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - marcellyfcruz@gmail.com" style="vertical-align: middle; margin-left: 5px;" />
-</a>
-</p>
-Obrigado por visitar meu perfil! ⭐
