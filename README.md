@@ -1,6 +1,6 @@
 ## Marcelly Cruz
 
-Me chamo Marcelly Fonseca da Cruz, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie. Estudo programação desde 2022, antes mesmo de ingressar no ensino superior. Desde então, venho aprendendo algumas linguagens de forma autônoma e buscando me aprofundar continuamente na área.
+Me chamo Marcelly Fonseca da Cruz, estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie. Estudo programação desde 2023, antes mesmo de ingressar no ensino superior. Desde então, venho aprendendo algumas linguagens de forma autônoma e buscando me aprofundar continuamente na área.
 
 ---
 
